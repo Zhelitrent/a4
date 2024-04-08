@@ -1,0 +1,9 @@
+.hidden {
+    display: none;
+}
+.pink-background {
+    background-color: deepPink;
+}
+strong {
+    font-weight: bold;
+}
